@@ -50,6 +50,7 @@ customers.push({ name: "Alexa", email: "alexa@gmail.com", purchaseAmount: 23})
          //Logged Code Into Console\
 console.log("         Task 4 - Customer Database")
 console.log(customers)
+         //Completed Fourth Task
 
 //Task 5 - Order Porcessing System
 let order = {
