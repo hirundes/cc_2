@@ -36,7 +36,8 @@ let employee = {
   employee.position = "Associate";
          //Logged Code Into Console
 console.log("         Task 3 - Employee Records")
-console.log(employee);
+console.log(employee);     
+         //Completed Third Task 
 
 //Task 4 - Customer Database
 let customers = [{
