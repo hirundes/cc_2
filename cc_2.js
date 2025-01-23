@@ -21,6 +21,7 @@ let averageScore = studentScores.reduce((sum, score) => sum + score, 0) / studen
 console.log("         Task 2 - Student Scores")
 console.log("Scores With Updated Second Scores:", studentScores)
 console.log("Average of All Scores:", averageScore)   
+         //Completed Second Task 
 
 //Task 3 - Employee Records
 let employee = {
