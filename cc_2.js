@@ -52,7 +52,7 @@ console.log("         Task 4 - Customer Database")
 console.log(customers)
          //Completed Fourth Task
 
-//Task 5 - Order Porcessing System
+//Task 5 - Order Processing System
 let order = {
     orderId: 24456,
     customerName: "Grayson",
@@ -65,3 +65,4 @@ console.log("OrderId:", order.orderId);
 console.log("Customer Name:", order.customerName);
 console.log("Amount:", order.amount)
 console.log("Amount with 10% Tax Rate:", order.calculateTax())  
+         //Completed Fifth Task
